@@ -71,8 +71,8 @@ const About = () => {
                 <div>
                   <h4 className="font-semibold text-gray-800 dark:text-white mb-2">Education</h4>
                   <p className="text-gray-600 dark:text-gray-300">
-                    B.S. Computer Science<br />
-                    University Name, 20XX - 20XX
+                    B.E. Computer Science<br />
+                    GAT, 2022 - 2026
                   </p>
                 </div>
                 <div>
